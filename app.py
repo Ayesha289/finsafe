@@ -76,6 +76,6 @@ if generate_advice:
 # Footer
 st.markdown("---")
 st.write("© 2024 FinSafe. All rights reserved.")
-st.write("Disclaimer: The financial advice provided here is for educational purposes only and should not be considered as personalized financial advice. It is recommended to consult with a qualified financial advisor before making any investment decisions")
+st.write("Disclaimer: The financial advice generator is to be used for educational purposes only and should not be considered as professional financial advice. It is recommended to consult with a qualified financial advisor before making any financial decisions")
 
 streamlit_analytics.stop_tracking()
